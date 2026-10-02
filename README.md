@@ -1,5 +1,5 @@
 # School Maintenance Log Book App
-## Overview
+## Project Overview
 
 The School Maintenance Log Book App is a Line-of-Business (LOB) solution designed to modernise the way schools report and track maintenance issues across school facilities.
 
