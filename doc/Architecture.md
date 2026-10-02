@@ -36,3 +36,11 @@ As the operation is read-only, Power Apps can interact directly with SharePoint 
 ---
 ### Database Structure:
 ![image](https://github.com/koblaedem/School-Maintenance-Log-Book-App/blob/main/database.png)
+The database using list consists of the following columns:
+* ID: this creates an auto-generated numerical value that is used to easily identify the data submitted. It assists with data retrieval.
+* Staff Name: this column stores the submitter name. The submitter simply enters their first name and a dropdown would displays their name as stored in Entra ID.
+* Location: this column allows user to define where issue took effect.
+* Description: this column allows uses to further describe the issue that needs attention.
+* Status: this column allows relevant staff responsible for maintenance with permission to track the progress of issues reported. Either New, Pending, or Resolved.
+* Date Reported: this column auto generated the date and time the issue was submitted. 
+
