@@ -6,3 +6,4 @@ The application consists of three components:
 - Power Automate ( Workflow processing and zero trust implementation )
 - SharePoint List ( Backend Data Storage )
 
+# Architecture Diagram
