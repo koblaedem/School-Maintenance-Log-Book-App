@@ -10,4 +10,5 @@ The application consists of three components:
 ### Submission Flow:
 ![image](https://github.com/koblaedem/School-Maintenance-Log-Book-App/blob/main/arch_diagram1.png)
 
-### Retrieval/Search Flow 
+### Retrieval/Search Flow:
+![imgae](https://github.com/koblaedem/School-Maintenance-Log-Book-App/blob/main/arch_diagram2.png)
