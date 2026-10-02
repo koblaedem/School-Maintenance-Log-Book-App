@@ -11,4 +11,7 @@ The application consists of three components:
 ![image](https://github.com/koblaedem/School-Maintenance-Log-Book-App/blob/main/arch_diagram1.png)
 
 ### Retrieval/Search Flow:
-![imgae](https://github.com/koblaedem/School-Maintenance-Log-Book-App/blob/main/arch_diagram2.png)
+![image](https://github.com/koblaedem/School-Maintenance-Log-Book-App/blob/main/arch_diagram2.png)
+
+### Database:
+![image](https://github.com/koblaedem/School-Maintenance-Log-Book-App/blob/main/arch_diagram3.png)
