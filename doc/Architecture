@@ -1,0 +1,19 @@
+# Architecture
+
+## Solution Components
+
+- Power Apps
+- SharePoint Lists
+- Power Automate
+
+## Data Flow
+
+Staff
+↓
+Power App
+↓
+SharePoint List
+↓
+Power Automate
+↓
+Maintenance Team
