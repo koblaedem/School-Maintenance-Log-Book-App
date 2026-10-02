@@ -1,5 +1,5 @@
 # Solution Overview
-This application is built leveraging Microsoft Platform technologies, providing a centralised maintenance reporting solution for the school.
+This application is built using Microsoft Power Platform technologies to provide a centralised maintenance reporting solution for the school.
 
 The application consists of three components:
 - Power App ( for the user interface )
@@ -39,10 +39,10 @@ As the operation is read-only, Power Apps can interact directly with SharePoint 
 The database using list consists of the following columns:
 * ID: this creates an auto-generated numerical value that is used to easily identify the data submitted. It assists with data retrieval.
 * Staff Name: this column stores the submitter name. The submitter simply enters their first name and a dropdown would displays their name as stored in Entra ID.
-* Location: this column allows user to define where issue took effect.
-* Description: this column allows uses to further describe the issue that needs attention.
+* Location: This column stores the location where the maintenance issue was identified.
+* Description: This column stores additional details describing the reported issue.
 * Status: this column allows relevant staff responsible for maintenance with permission to track the progress of issues reported. Either New, Pending, or Resolved.
-* Date Reported: this column auto generated the date and time the issue was submitted. 
+* Date Reported: This column automatically records the date and time the issue was submitted. 
 ---
 ## Architecture Summary
 * The solution separates data submission from data retrieval.
