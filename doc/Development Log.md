@@ -1,14 +1,17 @@
 # Development Log
 
-## 02/10/2026
+##### Date: 03/10/2026
+##### Task:
+  * Created and defined Architecture documentation.
+  * Created Features documentation page.
+  * Wireframed App workflow.
+  * Defined SharePoint List schema.
+  * Designed Submission Portal
+  * Designed Administrative Portal for data retrieval.
 
-Created repository.
+##### Next Step:
+  * Design Issue Confirmation Page
+  * Define Power Automate Workflow.
+  * Connect SharePoint List to Power Automate Workflow.
 
-Implemented:
-- Initial project documentation.
-- Requirement gathering.
-- Issue categories.
-
-Next Steps:
-- Design SharePoint schema.
-- Build Power App form.
+---
