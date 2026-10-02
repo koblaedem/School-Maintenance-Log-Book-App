@@ -35,4 +35,4 @@ As the operation is read-only, Power Apps can interact directly with SharePoint 
 
 ---
 ### Database Structure:
-![image](https://github.com/koblaedem/School-Maintenance-Log-Book-App/blob/main/arch_diagram3.png)
+![image](https://github.com/koblaedem/School-Maintenance-Log-Book-App/blob/main/database.png)
