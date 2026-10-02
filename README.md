@@ -50,3 +50,8 @@ Requests are automatically recorded, assigned a status and made available for re
 ## Features
 This section contains details about the application's functionality and business capabilities.
 <a href="https://github.com/koblaedem/School-Maintenance-Log-Book-App/blob/main/doc/Features">View Features</a>
+
+##Architecture
+Here is where I describe the backbone of how this project is designed. <a href="https://github.com/koblaedem/School-Maintenance-Log-Book-App/blob/main/doc/Architecture">View Architectural Design</a>
+
+
