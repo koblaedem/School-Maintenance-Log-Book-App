@@ -3,7 +3,7 @@ This application is built leveraging Microsoft Platform technologies, providing 
 
 The application consists of three components:
 - Power App ( for the user interface )
-- Power Automate ( Workflow processing and zero trust implementation )
+- Power Automate ( Workflow Processing and Secure Data Submission )
 - SharePoint List ( Backend Data Storage )
 
 # Architecture Diagram
