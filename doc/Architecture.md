@@ -20,9 +20,19 @@ The submission process allows school staff to report maintenance issues through 
 Power Automate acts as the controlled submission layer between the user interface and backend data store.
 This approach centralises business logic and supports a more secure design by preventing direct write access to the backend data source.
 
+---
 ### Retrieval/Search Flow:
 ![image](https://github.com/koblaedem/School-Maintenance-Log-Book-App/blob/main/arch_diagram2.png)
-##### Comments: When the maintenance team decides to query the database in search of a user, it retrieves data from the list directly without the need for a flow.
+The retrieval process allows maintenance staff to search for and review existing maintenance requests.
+#### Process
+1. User enters a Staff Name or Issue Number.
+2. Power Apps queries the SharePoint List.
+3. Matching records are returned.
+4. Results are displayed within the application.
+#### Purpose
+This design allows maintenance staff to retrieve information quickly without requiring an intermediate workflow process.
+As the operation is read-only, Power Apps can interact directly with SharePoint for improved performance and reduced complexity.
 
+---
 ### Database Structure:
 ![image](https://github.com/koblaedem/School-Maintenance-Log-Book-App/blob/main/arch_diagram3.png)
