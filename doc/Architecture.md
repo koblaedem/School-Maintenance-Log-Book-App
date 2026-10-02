@@ -7,5 +7,7 @@ The application consists of three components:
 - SharePoint List ( Backend Data Storage )
 
 # Architecture Diagram
-### Front End Work Flow:
+### Submission Flow:
 ![image](https://github.com/koblaedem/School-Maintenance-Log-Book-App/blob/main/arch_diagram1.png)
+
+### Retrieval/Search Flow 
