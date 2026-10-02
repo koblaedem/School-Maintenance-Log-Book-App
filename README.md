@@ -49,4 +49,4 @@ Requests are automatically recorded, assigned a status and made available for re
 ## Documentation:
 ## Features
 This section contains details about the application's functionality and business capabilities.
-<a href="https://github.com/koblaedem/School-Maintenance-Log-Book-App/blob/main/doc/features">View Features</a>
+<a href="https://github.com/koblaedem/School-Maintenance-Log-Book-App/blob/main/doc/Features">View Features</a>
