@@ -43,4 +43,9 @@ The database using list consists of the following columns:
 * Description: this column allows uses to further describe the issue that needs attention.
 * Status: this column allows relevant staff responsible for maintenance with permission to track the progress of issues reported. Either New, Pending, or Resolved.
 * Date Reported: this column auto generated the date and time the issue was submitted. 
-
+---
+## Architecture Summary
+* The solution separates data submission from data retrieval.
+* All maintenance requests are submitted through Power Automate before being written to SharePoint, providing a controlled submission process and reducing direct backend access.
+* Maintenance staff can retrieve maintenance records directly through Power Apps, allowing fast and efficient access to historical and active requests.
+* This design delivers a simple, scalable and maintainable solution while leveraging Microsoft Power Platform technologies.
