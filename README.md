@@ -45,3 +45,8 @@ Requests are automatically recorded, assigned a status and made available for re
 
 ## Status:
 🟡 In Development
+
+## Documentation:
+## Features
+This section contains details about the application's functionality and business capabilities.
+/docs/features.md
